@@ -1,8 +1,7 @@
 # Personal Portfolio Website in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-![Screenshot](https://raw.githubusercontent.com/Galvan7/Advanced-Portfolio/master/src/assets/img/prjimg2.png)
+[Imgur](https://i.imgur.com/ipNjCTo.png)
 
 Built using:
 
