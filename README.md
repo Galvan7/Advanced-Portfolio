@@ -1,7 +1,8 @@
 # Personal Portfolio Website in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-[Imgur](https://i.imgur.com/ipNjCTo.png)
+![Screenshot](https://i.imgur.com/your-image-id.png)
+
 
 Built using:
 
