@@ -14,6 +14,7 @@ import c9 from "../assets/img/9.png";
 import c10 from "../assets/img/10.png";
 import bzh from "../assets/img/buzzhive-logo.png"
 import 'animate.css';
+import './size.css';
 import TrackVisibility from 'react-on-screen';
 
 export const Projects = () => {
